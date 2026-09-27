@@ -1,2 +1,2 @@
 # enderexe.github.io
-EnderEXE's Portfolio
+EnderEXE's tiny site to showcase his upcoming projects. Treat this as a portfolio.
